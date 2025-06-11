@@ -1,0 +1,1 @@
+O objetivo deste eBook é ser direto e prático, fornecendo código útil e fácil de entender que você pode aplicar imediatamente em seus projetos. É ideal para desenvolvedores que buscam uma referência rápida e eficiente para trabalhar com Bootstrap.
